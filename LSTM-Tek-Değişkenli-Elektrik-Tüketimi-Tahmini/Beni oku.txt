@@ -1,0 +1,10 @@
+Kodların çalışabilmesi için kurulması gerekenler;
+
+pip install keras
+
+pip install pandas
+
+pip install tensorflow
+
+pip install seaborn
+
